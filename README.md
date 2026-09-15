@@ -18,3 +18,8 @@ O roteiro para o ambiente é
   4) Instalar o Apache Kafka. Na máquina produtora, basta uma instalação standalone. Nas máquinas do cluster, configurar para que todas as máquinas estejam realmente em cluster (1, 2, 3, 4, ...). Configure o java se precisar (no experimento foi adotado o padrão de fábrica)
   5) Seguir o roteiro de testes. Para instalações, sugiro seguir a IA de sua preferência para apoio dessas atividades inciais;
 
+Roteiro de Testes e Scripts
+
+
+Arquivos de Testes (Uso Liberado)
+
