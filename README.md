@@ -7,6 +7,8 @@ Visa um ambiente laboratorial de estudos acadêmicos, mas pode servir para trein
 
 Este experimento foi criado para fins de dissertação de mestrado (PEL/UERJ).
 
+Os scripts, datasets, gráficos e dados brutos podem ser utilizados sem restrição.
+
 A otimização é realizada por meio da integração de aprendizado de máquinas (XGBoost) + Algoritmo Evolutivo Multiobjetivo (NSGA-III).
 
 Os scripts estão escritos em shell e python. 
